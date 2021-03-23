@@ -1,0 +1,6 @@
+﻿  NeuralNetwork.cpp
+C:\Users\Tyler Green\source\repos\SimpleNeuralNetwork\SimpleNeuralNetwork\NeuralNetwork.h(25,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Tyler Green\source\repos\SimpleNeuralNetwork\SimpleNeuralNetwork\NeuralNetwork.cpp(20,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tyler Green\source\repos\SimpleNeuralNetwork\SimpleNeuralNetwork\NeuralNetwork.cpp(26,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tyler Green\source\repos\SimpleNeuralNetwork\SimpleNeuralNetwork\NeuralNetwork.cpp(17): warning C4717: 'NeuralNetwork::tanh': recursive on all control paths, function will cause runtime stack overflow
+  SimpleNeuralNetwork.vcxproj -> C:\Users\Tyler Green\source\repos\SimpleNeuralNetwork\x64\Debug\SimpleNeuralNetwork.exe
